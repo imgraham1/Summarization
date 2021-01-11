@@ -6,3 +6,4 @@ Typically, summarization methods are evaluated based on the Rouge metric. This m
 <br><br>
 I use the CNN/DM news article data set for this project which has been widely used in testing summarization techniques. 
 <br><br> The results of this project show that the state-of-the-art pointer generator network proposed by See et.al. is the most effective method in creating summaries that contain the most information as well as effectively improve readability.
+<br><br> For a more thorough explanation & details, check out my write up on Medium linked above
